@@ -2,34 +2,33 @@
 ## Easy
 - Print numbers from 1->n using recursion.
 - Print numbers from n to 1 using recursion.
-	3. Find the nth fibonacci number using recursion.
-	4. Print n fibanacci numbers 
-	5. Find Factorial of n using recursion.
-	6. Find the sum of digits in a given number n using recursion.
-	7. Find product of digits in a given number n using recursion.
-	8. Reverse a given number n using recursion.
-	9. Find the given number is palindrome or not.
-	10. Count zeros in a given number.
-	11. Binary Search with recursion.
-	12. Find an array sorted or not.
-	13. Linear search using recursion.
-	14. Linear search for multiple occurrences using recursion.
-	15. Print below pattern using recursion.
-	****
+- Find the nth fibonacci number using recursion.
+- Print n fibanacci numbers 
+- Find Factorial of n using recursion.
+- Find the sum of digits in a given number n using recursion.
+- Find product of digits in a given number n using recursion.
+- Reverse a given number n using recursion.
+- Find the given number is palindrome or not.
+- Count zeros in a given number.
+- Binary Search with recursion.
+- Find an array sorted or not.
+- Linear search using recursion.
+- inear search for multiple occurrences using recursion.
+- Print below pattern using recursion.
+	'****
 	***
 	**
-	*
-	16. Bubble Sort using recursion.
-	17. Selection Sort using recursion.
-	18. Merge sort using recursion.
-	19. Quick Sort using recursion.
-	20. Remove a's from "baccdah"
-	21. Skip a String, Remove "apple" from "dapplefg" using recursion.
-	22.  Skip a string if it's not the required string. Remove "app" if it's not "apple" from "dapplefg"
-	23. Print all combinations & permutations of a given string.  For example "abc", print a, b, c, ab, ac, bc, abc
-    24. Print the possible combinations whose sum is equal to target from an array.
-    
-
+	*'
+- Bubble Sort using recursion.
+- Selection Sort using recursion.
+- Merge sort using recursion.
+- Quick Sort using recursion.
+- Remove a's from "baccdah"
+- Skip a String, Remove "apple" from "dapplefg" using recursion.
+- Skip a string if it's not the required string. Remove "app" if it's not "apple" from "dapplefg"
+- Print all combinations & permutations of a given string.  For example "abc", print a, b, c, ab, ac, bc, abc
+- Print the possible combinations whose sum is equal to target from an array.
+- 
 - [Sum Triangle from Array](https://www.geeksforgeeks.org/sum-triangle-from-array/) `GFG`
 - [Maximum and Minimum value in an array](https://www.geeksforgeeks.org/recursive-programs-to-find-minimum-and-maximum-elements-of-array/) `GFG`
 - [First Uppercase Letter in a String](https://www.geeksforgeeks.org/first-uppercase-letter-in-a-string-iterative-and-recursive/) `GFG`
