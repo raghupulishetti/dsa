@@ -9,8 +9,8 @@
 - [Find product of digits in a given number n using recursion.](https://github.com/raghupulishetti/dsa/blob/main/recursion/src/com/raghu/recursion/ProductOfDigits.java)
 - [Reverse a given number n using recursion.](https://github.com/raghupulishetti/dsa/blob/main/recursion/src/com/raghu/recursion/ReverseNumber.java)
 - [Find the given number is palindrome or not.](https://github.com/raghupulishetti/dsa/blob/main/recursion/src/com/raghu/recursion/NumberPalindrome.java)
-- Count zeros in a given number.
-- Binary Search with recursion.
+- [Count zeros in a given number.](https://github.com/raghupulishetti/dsa/blob/main/recursion/src/com/raghu/recursion/CountOfZerosInNumber.java)
+- [Binary Search with recursion.](https://github.com/raghupulishetti/dsa/blob/main/recursion/src/com/raghu/recursion/BinarySearch.java)
 - Find an array sorted or not.
 - Linear search using recursion.
 - Linear search for multiple occurrences using recursion.
