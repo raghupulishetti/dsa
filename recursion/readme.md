@@ -13,7 +13,7 @@
 - Binary Search with recursion.
 - Find an array sorted or not.
 - Linear search using recursion.
-- inear search for multiple occurrences using recursion.
+- Linear search for multiple occurrences using recursion.
 - Print below pattern using recursion.
 	```text
 	* * * *
