@@ -15,10 +15,12 @@
 - Linear search using recursion.
 - inear search for multiple occurrences using recursion.
 - Print below pattern using recursion.
-	'****
-	***
-	**
-	*'
+	```text
+	* * * *
+	* * *
+	* *
+	*
+	```
 - Bubble Sort using recursion.
 - Selection Sort using recursion.
 - Merge sort using recursion.
