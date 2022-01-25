@@ -5,10 +5,10 @@
 - [Find the nth fibonacci number using recursion.](https://github.com/raghupulishetti/dsa/blob/main/recursion/src/com/raghu/recursion/NthFibonacciNumber.java)
 - [Print n fibanacci numbers](https://github.com/raghupulishetti/dsa/blob/main/recursion/src/com/raghu/recursion/NFibonacciNumbers.java)
 - [Find Factorial of n using recursion.](https://github.com/raghupulishetti/dsa/blob/main/recursion/src/com/raghu/recursion/Factorial.java)
-- Find the sum of digits in a given number n using recursion.
-- Find product of digits in a given number n using recursion.
-- Reverse a given number n using recursion.
-- Find the given number is palindrome or not.
+- [Find the sum of digits in a given number n using recursion.](https://github.com/raghupulishetti/dsa/blob/main/recursion/src/com/raghu/recursion/SumOfDigits.java)
+- [Find product of digits in a given number n using recursion.](https://github.com/raghupulishetti/dsa/blob/main/recursion/src/com/raghu/recursion/ProductOfDigits.java)
+- [Reverse a given number n using recursion.](https://github.com/raghupulishetti/dsa/blob/main/recursion/src/com/raghu/recursion/ReverseNumber.java)
+- [Find the given number is palindrome or not.](https://github.com/raghupulishetti/dsa/blob/main/recursion/src/com/raghu/recursion/NumberPalindrome.java)
 - Count zeros in a given number.
 - Binary Search with recursion.
 - Find an array sorted or not.
