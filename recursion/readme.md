@@ -30,7 +30,7 @@
 - Skip a string if it's not the required string. Remove "app" if it's not "apple" from "dapplefg"
 - Print all combinations & permutations of a given string.  For example "abc", print a, b, c, ab, ac, bc, abc
 - Print the possible combinations whose sum is equal to target from an array.
-- 
+
 - [Sum Triangle from Array](https://www.geeksforgeeks.org/sum-triangle-from-array/) `GFG`
 - [Maximum and Minimum value in an array](https://www.geeksforgeeks.org/recursive-programs-to-find-minimum-and-maximum-elements-of-array/) `GFG`
 - [First Uppercase Letter in a String](https://www.geeksforgeeks.org/first-uppercase-letter-in-a-string-iterative-and-recursive/) `GFG`
